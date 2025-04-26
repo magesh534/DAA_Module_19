@@ -10,13 +10,13 @@ To write a python program to sort the first half of the list using merge sort.
 4. Copy any remaining elements from the left or right half.
 5. Return the fully sorted array.
 ## Program:
-
+```
 /*
 Program to implement Merge Sort
 Developed by: Magesh V
 Register Number:  212222040092
 */
-
+```
 ```python
 def mergesort(li):
     if len(li) > 1:
