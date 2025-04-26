@@ -10,12 +10,13 @@ To write a python program for a search function with parameter list name and the
 4. Iterate through each element in List and compare with n. If a match is found, set found = True and break.
 5. Print "Found" if found is True; otherwise, print "Not Found".
 ## Program:
-
+```
 /*
 Program to implement a search function with parameter list name and the value to be searched using string values.
 Developed by: Magesh V
 Register Number:  212222040092
 */
+```
 
 ```python
 def search(List,n):
