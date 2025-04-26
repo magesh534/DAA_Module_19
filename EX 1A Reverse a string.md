@@ -23,6 +23,8 @@ Program to implement Reverse a String
 Developed by: Magesh V
 Register Number: 212222040092
 */
+```
+```
 def rev(a):
     if len(a)==0:
         return a
